@@ -66,7 +66,7 @@ for country in rivers.values():
 pets = []
 
 pet = {
-    'Animal Type': 'Cat',
+    'Animal Type': 'Golden Retriever',
     'Owner': 'Marla',
 }
 pets.append(pet)
@@ -78,7 +78,7 @@ pet = {
 pets.append(pet)
 
 pet = {
-    'Animal Type': 'Cat',
+    'Animal Type': 'Persian Cat',
     'Owner': 'Goldie',
 }
 pets.append(pet)
