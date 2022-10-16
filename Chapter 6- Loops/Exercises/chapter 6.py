@@ -56,7 +56,7 @@ sandwich_orders = [
     'Turkey', 'Roasted Beef',]
 finished_sandwiches = []
 
-print("I'm apologize that we are indeed all out of Pastrami for today. Sorry for the inconvinience!")
+print("I apologize that we are indeed all out of Pastrami for today. Sorry for the inconvinience!")
 while 'Pastrami' in sandwich_orders:
     sandwich_orders.remove('Pastrami')
 
