@@ -1,7 +1,7 @@
 #exercise 3
 
 # /t /n strip
-name = "   \n Adhenz \t Miranda    "
+name = "   \n Adhenz Miranda  \t  "
 print(name.strip())
 
 #strip
