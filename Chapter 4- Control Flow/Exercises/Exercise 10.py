@@ -1,4 +1,5 @@
-#You are making a ticketing system.
+#exercise 10
+# You are making a ticketing system.
 #he price of a single ticket is $100.
 #For children under 3 years of age, the ticket is free.
 

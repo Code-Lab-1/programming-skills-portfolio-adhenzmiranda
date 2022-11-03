@@ -1,4 +1,5 @@
-#Use the clear method to empty the car dictionary.
+#exercise 10
+# Use the clear method to empty the car dictionary.
 
 car =	{
   "brand": "Ford",
@@ -6,3 +7,5 @@ car =	{
   "year": 1964
 }
 car.clear()
+
+print(car)

@@ -1,4 +1,5 @@
-# increment the counter by 1. and malke the counter variable to be no longer be less than 5, and make the while loop stop executing.
+#exercise 7
+#  increment the counter by 1. and malke the counter variable to be no longer be less than 5, and make the while loop stop executing.
 
 count = 1
 while count < 5:

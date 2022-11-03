@@ -1,4 +1,5 @@
-#Add the key/value pair "color" : "red" to the car dictionary.
+#exercise 8
+# Add the key/value pair "color" : "red" to the car dictionary.
 
 
 car =	{
@@ -7,3 +8,5 @@ car =	{
   "year": 1964
 }
 car["color"] = "red"
+print(car)
+print(car.get("color"))

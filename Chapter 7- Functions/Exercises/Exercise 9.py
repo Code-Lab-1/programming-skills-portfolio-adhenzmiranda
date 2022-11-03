@@ -1,4 +1,5 @@
-#Arguments
+#exercise 9
+# Arguments
 
 
 #The given program defines a function printBill(), which takes one string argument and outputs formatted text.

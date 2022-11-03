@@ -1,4 +1,5 @@
-#Write a program to take x and y as input and output the string x, repeated y times.
+#exercise 9
+# Write a program to take x and y as input and output the string x, repeated y times.
 
 #Sample Input
 #hi

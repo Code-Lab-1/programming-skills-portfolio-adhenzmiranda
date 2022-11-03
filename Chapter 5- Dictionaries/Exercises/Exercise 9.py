@@ -1,4 +1,5 @@
-#Use the pop method to remove "model" from the car dictionary.
+#exercise 9
+# Use the pop method to remove "model" from the car dictionary.
 
 
 car =	{
@@ -8,3 +9,5 @@ car =	{
 }
 
 car.pop("model")
+
+print(car)

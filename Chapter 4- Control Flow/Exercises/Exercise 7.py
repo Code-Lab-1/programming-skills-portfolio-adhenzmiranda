@@ -2,7 +2,8 @@
 #Only people who are 18 or older are allowed to enter the club.
 #Your program takes the age of the person who tries to enter, and outputs "Allowed" if they are allowed to enter the club, and "Sorry" if they are younger than the allowed age.
 
-#Sample Input
+#exercise 7
+# Sample Input
 #24
 
 #Sample Output

@@ -1,4 +1,5 @@
-#The provided code stores the value 7 in a variable, and outputs it.
+#exerecise 7
+# The provided code stores the value 7 in a variable, and outputs it.
 
 num = 7
 

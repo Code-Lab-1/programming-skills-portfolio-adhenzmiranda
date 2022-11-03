@@ -1,4 +1,5 @@
-#Get the model of the car model
+#exercise 6
+# Get the model of the car model
 car =	{
   "brand": "Ford",
   "model": "Mustang",

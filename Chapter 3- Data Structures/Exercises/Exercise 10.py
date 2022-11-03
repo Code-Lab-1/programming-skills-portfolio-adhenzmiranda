@@ -1,4 +1,5 @@
-#Write a program that takes a string as input and outputs the #last character of that string.
+#exercise 10
+# Write a program that takes a string as input and outputs the #last character of that string.
 
 text = input()
 rev = text[::-1]

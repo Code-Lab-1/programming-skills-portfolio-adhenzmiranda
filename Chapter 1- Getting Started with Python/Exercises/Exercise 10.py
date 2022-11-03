@@ -1,4 +1,5 @@
-#You’re given a task to write the word "hi" 42 times. Boring, right?
+#Exercise 10
+# You’re given a task to write the word "hi" 42 times. Boring, right?
 
 #Write a program to do it for you.
 
