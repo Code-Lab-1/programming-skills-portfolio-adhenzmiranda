@@ -1,10 +1,11 @@
 #exercise 6
-# List Functions
-#You are working on a queue management program.
-#The queue is represented by a list.
-#Write a program to take an input, add it to the end of the queue, and output the resulting list.
+#Sum of numbers
+#Write a function that takes two arguments and returns their sum.
 
-queue = ['John', 'Amy', 'Bob', 'Adam']
-
-queue.append(input())
-print(queue)
+def sum_of_number(a, b):
+    return a + b
+ 
+num1 = float(input("Enter 1st number:"))
+num2 = float(input("Enter 2nd number:"))
+ttl = sum_of_number(num1, num2)
+print(f"{num1} + {num2} = {ttl}")
